@@ -1,0 +1,232 @@
+* {
+    margin: 0;
+   font-family: Arial, Helvetica, sans-serif;
+   border:border-box;
+   display:row;
+}
+.navbar {
+    height:55px;
+    background-color: #0b1214;
+    color: white;
+    display: flex;
+    align-items: center;
+   justify-content: space-evenly;
+}
+.nav {
+    height:50px;
+    width: 119px;
+}
+.logo {
+    background-image: url("amazonlogo.png");
+    background-size:cover;
+    height:50px;
+    width:100%;
+}
+.border {
+    border:2px solid transparent;
+}
+.border:hover {
+    border: 1.75px solid whitesmoke;
+}
+.tloc {
+    color:whitesmoke;
+    font-size: 12px;
+    margin-left:15px;
+}
+.address-icon {
+    display: flex;
+    align-items: center;
+    margin-left: 3px;
+}
+.border1 {
+    border:2px solid transparent;
+}
+.border1:hover {
+    border: 1.75px solid whitesmoke;
+}
+.search {
+    display: flex;
+    background-color:#0b1214;
+    width:620px;
+    height: 40px;
+    border-radius: 4px;
+    justify-content: space-evenly;
+    font-size: 1rem;
+}
+.srch {
+    width:50px;
+    text-align:centre;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    background-color: white;
+    border:none;
+}
+.search1 {
+    font-size:1rem;
+    width:100%;
+    border:none;
+}
+.search-ion {
+    width:45px;
+    font-size: 1.25rem;
+    background-color:#d37920 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+span {
+    font-size: 0.6rem;
+}
+.secondsignin {
+    font-size: 0.85rem;
+    font-weight: 650;
+}
+.border2 {
+    border:2px solid transparent;
+}
+.border2:hover {
+    border: 1.75px solid whitesmoke;
+}
+.border3 {
+    border:2px solid transparent;
+}
+.border3:hover {
+    border: 1.75px solid whitesmoke;
+}
+.cart i {
+    font-size: 30px;
+}
+.cart {
+    font-size:0.85rem;
+    font-weight: 700    ;
+}
+.border4 {
+    border:2px solid transparent;
+}
+.border4:hover {
+    border: 1.75px solid whitesmoke;
+}
+.panel {
+    display: flex;
+    background-color: #1e3036;
+    height:39px;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.panel-options p {
+    display: inline;
+    margin-left: 15px;   
+}
+.panel-options {
+    width: 89%;
+    font-size: 14px;
+}
+.imp {
+    background-image: url("clone.1.jpg");
+    background-size: cover;
+    height:350px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8rem;
+    align-items: flex-end;
+}
+.msg {
+    width:85%;
+    height:39px;
+    background-color: white;
+    display: flex  ;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:32px;
+}
+.shopping {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(247, 231, 237);
+}
+
+.box {
+   /* border:2px solid black;*/
+    height: 400px;
+    width: 24%;
+    background-color: white;
+    margin: 5px;
+}
+.boximag1 {
+    height:300px;
+    background-repeat: no-repeat;
+}
+.box1cont {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.boximag2 {
+    height:300px;
+    background-repeat: no-repeat;
+}
+.boximag3 {
+    height:300px;
+    background-repeat: no-repeat;
+}
+.shopping2 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(247, 231, 237);
+}
+.box p {
+    color: blue;
+}
+.boximag4 {
+    height:250px;
+    background-repeat: no-repeat;
+}
+.b9 {
+    justify-content: center;
+    align-items: center;
+    height:300px;
+    margin:10px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+footer{
+    margin-top: 10px;
+    background-color: #232f3e;
+}
+.foot {
+    color:white;
+    background-color: #0f1111;
+    height: 50px;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.footinf {
+    background-color:#232f3e ;
+    height: 600px;
+    font-size: 14px;
+    display: flex;
+    justify-content: column;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+.footinf  p {
+    font-size:16px ;
+    color:white;
+}
+ul {
+    margin: 10px;;
+}
+ul a{
+    display: block;
+    margin-top: 10px;
+    font-size: 0.80rem;
+    color:white;
+} 
