@@ -230,3 +230,6 @@ ul a{
     font-size: 0.80rem;
     color:white;
 } 
+@media sceeen and (max-width:600px)
+{
+    
