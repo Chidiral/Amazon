@@ -230,7 +230,9 @@ ul a{
     font-size: 0.80rem;
     color:white;
 } 
-@media sceeen and (max-width:600px)
-{
-    flex-wrap:wrap;
+@media (max-width:600px)
+{ div{
+    
+    font-size : 8px;
+ }
 }
