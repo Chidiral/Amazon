@@ -230,7 +230,7 @@ ul a{
     font-size: 0.80rem;
     color:white;
 } 
-@media (max-width:600px)
+@media (max-width:400px)
 { div{
     
     font-size : 8px;
